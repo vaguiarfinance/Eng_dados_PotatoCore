@@ -3,9 +3,11 @@ Nesta documentação, vou detalhar o processo que segui para criar um pipeline a
 
 # Contextualização
 Aqui está uma breve explicação de como a Lotofácil funciona:
+
 *Escolha de Números:* Em um volante da Lotofácil, há um total de 25 números disponíveis, numerados de 01 a 25. O jogador deve escolher de 15 a 20 números entre esses 25.
 *Apostas:* Você pode fazer uma aposta simples selecionando 15 números, mas também pode aumentar suas chances de ganhar fazendo uma aposta com mais números, até o limite de 20.
 *Probabilidades:* As chances de ganhar na Lotofácil variam de acordo com a quantidade de números selecionados. Quanto mais números você escolher, maiores serão as chances de acertar, mas o custo da aposta também será mais alto.
+
 ## Visão Geral
 
 O projeto consiste em um pipeline automatizado que realiza as seguintes etapas:
