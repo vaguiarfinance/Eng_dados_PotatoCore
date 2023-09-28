@@ -44,7 +44,7 @@ Para estabelecer a integração com o banco de dados da PotatoCore, criei um scr
 
 ## Tecnologias Utilizadas
 Linguagem de programação: Python
-Bibliotecas: openpyxl (para extração de dados da planilha Excel), pandas (para transformação de dados)
+Bibliotecas: pandas, requests, seaborn, matplotlib e psycopg2
 
 # Conclusão
 Este projeto representou um desafio gratificante para se tornar um engenheiro de dados júnior na DNC. 
